@@ -1,6 +1,6 @@
 # 📚 Markov Chain Text Generation
 
-Question Courtesies : Pranav Gupta
+Question Courtesies : Pranav Gupta<br/>
 To get started with this project, clone the repository using:
 
 ```
